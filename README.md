@@ -2,6 +2,9 @@
 
 A comprehensive machine learning project to identify and classify potato diseases using advanced image classification techniques. This project includes model training, API deployment, frontend integration, and mobile application support, creating an end-to-end pipeline for detecting diseases in potato plants.
 
+![Screenshot 2025-02-01 133509](https://github.com/user-attachments/assets/823b724f-138c-4e8b-9d14-60c4084ce924)
+
+
 # Project Overview
 
 This project aims to aid farmers and agronomists by providing an efficient solution for diagnosing potato plant health. By leveraging convolutional neural networks (CNNs) for image classification, the system identifies common diseases like Early Blight and Late Blight, along with healthy leaves. The model is deployed via RESTful APIs, accessible through web and mobile applications, and scalable using Google Cloud Platform (GCP).
